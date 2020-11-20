@@ -1,13 +1,6 @@
-#### LeetCode
-###### 序号
-|#|题名|题解|困难程度|备注|
-|  :----:  | :----: |  :----:  | :----:  | :----: |
-|1|[两数之和](https://leetcode.com/problems/two-sum/)|[JavaScript](easy/two-sum.js)|简单|
-|2|[两数相加](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](medium/add-two-numbers.js)|中等|
-|3|[无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavsScript](medium/longest-substring-without-repeating-characters.js)|中等|
-|4|[寻找两个正序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JavaScript](hard/median-of-two-sorted-arrays.js)|困难|
+#### LeetCode日常刷题记录
 
-###### 困难程度
+##### 困难程度
 |#|题名|题解|困难程度|备注|
 |  :----:  | :----: |  :----:  | :----:  | :----: |
 |1|[两数之和](https://leetcode.com/problems/two-sum/)|[JavaScript](easy/two-sum.js)|简单|
@@ -22,4 +15,12 @@
 
 |#|题名|题解|困难程度|备注|
 |  :----:  | :----: |  :----:  | :----:  | :----: |
+|4|[寻找两个正序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JavaScript](hard/median-of-two-sorted-arrays.js)|困难|
+
+##### 序号
+|#|题名|题解|困难程度|备注|
+|  :----:  | :----: |  :----:  | :----:  | :----: |
+|1|[两数之和](https://leetcode.com/problems/two-sum/)|[JavaScript](easy/two-sum.js)|简单|
+|2|[两数相加](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](medium/add-two-numbers.js)|中等|
+|3|[无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavsScript](medium/longest-substring-without-repeating-characters.js)|中等|
 |4|[寻找两个正序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JavaScript](hard/median-of-two-sorted-arrays.js)|困难|
