@@ -8,6 +8,8 @@
 |7|[整数反转](https://leetcode.com/problems/reverse-integer/)|[JavaScript](easy/reverse-integer.js)|简单|
 |9|[回文数](https://leetcode.com/problems/palindrome-number/)|[JavaScript](easy/palindrome-number.js)|简单|
 |13|[罗马数字转整数](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](easy/roman-to-integer.js)|简单|
+|14|[最长工共前缀](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](easy/longest-common-prefix.js)|简单|
+
 ###### 中等
 |#|题名|题解|困难程度|备注|
 |  :----:  | :----: |  :----:  | :----:  | :----: |
