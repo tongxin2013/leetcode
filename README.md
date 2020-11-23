@@ -9,6 +9,7 @@
 |9|[回文数](https://leetcode.com/problems/palindrome-number/)|[JavaScript](easy/palindrome-number.js)|简单|
 |13|[罗马数字转整数](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](easy/roman-to-integer.js)|简单|
 |14|[最长工共前缀](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](easy/longest-common-prefix.js)|简单|
+|20|[有效的括号](https://leetcode.com/problems/valid-parentheses/)|[Javascript](easy/valid-parentheses.js)|简单|
 
 ###### 中等
 |#|题名|题解|困难程度|备注|
