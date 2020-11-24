@@ -10,6 +10,8 @@
 |13|[罗马数字转整数](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](easy/roman-to-integer.js)|简单|
 |14|[最长工共前缀](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](easy/longest-common-prefix.js)|简单|
 |20|[有效的括号](https://leetcode.com/problems/valid-parentheses/)|[Javascript](easy/valid-parentheses.js)|简单|
+|21|合并两个有序链表|JavaScript|简单|
+|26|[删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](easy/remove-duplicates-from-sorted-array.js)|简单|
 
 ###### 中等
 |#|题名|题解|困难程度|备注|
