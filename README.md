@@ -12,6 +12,7 @@
 |20|[有效的括号](https://leetcode.com/problems/valid-parentheses/)|[Javascript](easy/valid-parentheses.js)|简单|
 |21|合并两个有序链表|JavaScript|简单|
 |26|[删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](easy/remove-duplicates-from-sorted-array.js)|简单|
+|27|[移除元素](https://leetcode.com/problems/remove-element/)|[JavaScript](easy/remove-element.js)|简单|
 
 ###### 中等
 |#|题名|题解|困难程度|备注|
