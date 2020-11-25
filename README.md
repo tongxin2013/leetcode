@@ -15,12 +15,14 @@
 |27|[移除元素](https://leetcode.com/problems/remove-element/)|[JavaScript](easy/remove-element.js)|简单|
 |28|[实现strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](easy/implement-strstr.js)|简单|
 |35|[搜索插入位置](https://leetcode.com/problems/search-insert-position/)|[JavaScript](easy/search-insert-position.js)|简单|
-
+|38|外观数列|JavaScript|简单|
 ###### 中等
 |#|题名|题解|困难程度|备注|
 |  :----:  | :----: |  :----:  | :----:  | :----: |
 |2|[两数相加](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](medium/add-two-numbers.js)|中等|
 |3|[无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavsScript](medium/longest-substring-without-repeating-characters.js)|中等|
+|338|比特位计数|JavaScript|中等|
+
 ###### 困难
 |#|题名|题解|困难程度|备注|
 |  :----:  | :----: |  :----:  | :----:  | :----: |
