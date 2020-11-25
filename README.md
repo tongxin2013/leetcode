@@ -14,6 +14,7 @@
 |26|[删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](easy/remove-duplicates-from-sorted-array.js)|简单|
 |27|[移除元素](https://leetcode.com/problems/remove-element/)|[JavaScript](easy/remove-element.js)|简单|
 |28|[实现strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](easy/implement-strstr.js)|简单|
+|35|[搜索插入位置](https://leetcode.com/problems/search-insert-position/)|[JavaScript](easy/search-insert-position.js)|简单|
 
 ###### 中等
 |#|题名|题解|困难程度|备注|
